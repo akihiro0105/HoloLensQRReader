@@ -565,7 +565,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: QRReader
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: D:\ProgramProject\HoloLab\HoloLabToolkit\QRReader\QRReader\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
